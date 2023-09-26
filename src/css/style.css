@@ -1,0 +1,30 @@
+  .game_field {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    top: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    border: 1px solid rgb(255, 251, 251);
+  }
+
+  .field {
+    background-color: rgb(0, 128, 117);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+  }
+
+  img {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  }

@@ -1,0 +1,1 @@
+![CI](https://github.com/fasca23/ahj_1/actions/workflows/web.yml/badge.svg)
